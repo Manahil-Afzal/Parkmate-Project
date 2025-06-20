@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Green Valley Park",
+    "latitude": 31.550,
+    "longitude": 74.340,
+    "features": ["Playground", "Jogging Track"]
+  },
+  {
+    "name": "Sunset Hills Park",
+    "latitude": 31.552,
+    "longitude": 74.345,
+    "features": ["Open Field", "Seating Area"]
+  }
+]
